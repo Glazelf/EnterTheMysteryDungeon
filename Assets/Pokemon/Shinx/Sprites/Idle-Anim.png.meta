@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 45
+  spritePixelsToUnits: 180
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
+  ignorePngGamma: 1
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -1316,15 +1316,16 @@ TextureImporter:
       Idle-Anim_55: -1492114179
       Idle-Anim_0: 209703471
       Idle-Anim_30: 152814450
+      Idle-Anim_54: 604964365
       Idle-Anim_1: 1513135467
-      Idle-Anim_9: -551197870
       Idle-Anim_41: 831219068
+      Idle-Anim_9: -551197870
       Idle-Anim_4: -1791316205
-      Idle-Anim_20: -2113903313
       Idle-Anim_32: 15678202
-      Idle-Anim_12: -1688407886
+      Idle-Anim_20: -2113903313
       Idle-Anim_17: 1111619618
       Idle-Anim_34: 1122871590
+      Idle-Anim_12: -1688407886
       Idle-Anim_27: -521586876
       Idle-Anim_38: 1326375763
       Idle-Anim_44: 649086088
@@ -1333,7 +1334,6 @@ TextureImporter:
       Idle-Anim_25: 1180572554
       Idle-Anim_35: 1713877555
       Idle-Anim_11: 343615257
-      Idle-Anim_54: 604964365
       Idle-Anim_21: -1935483938
       Idle-Anim_24: 1089568946
       Idle-Anim_28: 663301556
